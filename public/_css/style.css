@@ -1,0 +1,106 @@
+@import url(//fonts.googleapis.com/css?family=Lato:700);
+
+html, body {
+	/*margin:0;*/
+	/*font-family:'Lato', sans-serif;*/
+	text-align:center;
+	color: #999;
+	height: 100%;
+}
+#wrap {
+  min-height: 90%;
+}
+
+/*#content {
+  overflow:auto;
+  padding-bottom:150px; 
+}
+
+.snappy_footer {
+	margin-top: -150px;
+}
+*/
+.edit_view {
+	/*opacity: .5;*/
+	margin-right: .5em;
+}
+.jumbotron {
+	margin-bottom: 0px;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+.jumbotron p {
+	/*padding-top: .6em;*/
+}
+
+a, a:hover, a:visited {
+	text-decoration:none;
+}
+
+.jumbotron h1 {
+	font-size: 2em;
+	/*margin: 16px 0 0 0;*/
+}
+
+ul {
+	list-style: none;
+}
+ul.pagination {
+	margin-top: 0em;
+}
+
+.navbar-brand {
+    color: #777;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+a, a:hover, a:active, a:focus {
+   outline: 0;
+}
+
+.ask_btn {
+	margin-top: .5em;
+}
+.ask_top h3 {
+	margin-top: .5em;
+}
+.table {
+	margin-bottom: .5em;
+}
+nav.navbar-default.snappy_footer {
+	background: #e3e3e3;
+	border-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

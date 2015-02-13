@@ -1,0 +1,1 @@
+/Users/shourav/Documents/portfolio/laravel/makesnappy/app/views/answers/show.blade.php
